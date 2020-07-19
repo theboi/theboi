@@ -7,14 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: GitHub Readme
-      uses: theboi/github-update-readme@v0.1-alpha
+      uses: theboi/github-update-readme@v0.1.1-alpha
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         # Your GitHub username 
         username: theboi
         title: byetitle
-        subtitle: byebye 
+        subtitle: byebye
 
 # jobs:
 #   build:
