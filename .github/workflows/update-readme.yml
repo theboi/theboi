@@ -8,6 +8,8 @@ jobs:
     steps:
     - name: GitHub - Activity - Readme
       uses: jamesgeorge007/github-activity-readme@v0.1.5
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         # Your GitHub username
         USERNAME: theboi
