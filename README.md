@@ -1,7 +1,7 @@
 
-## byetitle
+## Hey, I'm Ryan! 👋
 
-### byebye
+### Currently a student in Singapore, passionate about creating all-things-tech to improve society.
 
 ---
 
@@ -15,4 +15,4 @@
 
 [//]: # (BREAK)
 
-
+Learn more about me at [ryanthe.com](https://www.ryanthe.com)!
