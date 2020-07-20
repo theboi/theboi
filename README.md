@@ -4,6 +4,9 @@
 
 ---
 
+| visual-algo |
+| :-: |
+| image |
 
 ---
 
