@@ -7,10 +7,10 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ||||
 | :-: | :-: | :-: |
-|  **[theboi/theboi](https://github.comtheboi/theboi)** | **[theboi/github-update-readme](https://github.comtheboi/github-update-readme)** | **[theboi/sketch-ignore](https://github.comtheboi/sketch-ignore)** |
-  |  **[theboi/theboi](https://github.comtheboi/theboi)** | **[theboi/github-update-readme](https://github.comtheboi/github-update-readme)** | **[theboi/sketch-ignore](https://github.comtheboi/sketch-ignore)** |
-|  **[theboi/qr-sstinc-org](https://github.comtheboi/qr-sstinc-org)** | **[theboi/github-profile-activity-readme](https://github.comtheboi/github-profile-activity-readme)** | **[theboi/visual-algo](https://github.comtheboi/visual-algo)** |
-  |  **[theboi/qr-sstinc-org](https://github.comtheboi/qr-sstinc-org)** | **[theboi/github-profile-activity-readme](https://github.comtheboi/github-profile-activity-readme)** | **[theboi/visual-algo](https://github.comtheboi/visual-algo)** |
+|  **[theboi/theboi](https://github.com/theboi/theboi)** | **[theboi/github-update-readme](https://github.com/theboi/github-update-readme)** | **[theboi/sketch-ignore](https://github.com/theboi/sketch-ignore)** |
+  |  <img src="https://github.com/theboi/theboi/raw/master/COVER.jpg" alt="theboi/theboi Cover Image" width="150" height="150"> | <img src="https://github.com/theboi/github-update-readme/raw/master/COVER.jpg" alt="theboi/github-update-readme Cover Image" width="150" height="150"> | <img src="https://github.com/theboi/sketch-ignore/raw/master/COVER.jpg" alt="theboi/sketch-ignore Cover Image" width="150" height="150"> |
+|  **[theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org)** | **[theboi/github-profile-activity-readme](https://github.com/theboi/github-profile-activity-readme)** | **[theboi/visual-algo](https://github.com/theboi/visual-algo)** |
+  |  <img src="https://github.com/theboi/qr-sstinc-org/raw/master/COVER.jpg" alt="theboi/qr-sstinc-org Cover Image" width="150" height="150"> | <img src="https://github.com/theboi/github-profile-activity-readme/raw/master/COVER.jpg" alt="theboi/github-profile-activity-readme Cover Image" width="150" height="150"> | <img src="https://github.com/theboi/visual-algo/raw/master/COVER.jpg" alt="theboi/visual-algo Cover Image" width="150" height="150"> |
 
 
 ---
