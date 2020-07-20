@@ -13,7 +13,7 @@ jobs:
       with:
         title: "Hey, I'm Ryan! 👋"
         subtitle: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
-        footer: "Learn more about me at [ryanthe.com](https://www.ryanthe.com)!"
+        footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
 # jobs:
 #   build:
 #     # Job name is Greeting
