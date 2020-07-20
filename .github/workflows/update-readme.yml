@@ -1,12 +1,12 @@
-name: Update README
+name: Update GitHub Profile README
 on: [push]
 #   schedule:
-#     - cron: "*/5 * * * *"      
+#     - cron: "*/5 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: GitHub Readme
+    - name: Update GitHub Profile README
       uses: theboi/github-update-readme@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
