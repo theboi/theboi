@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: GitHub Readme
+    - name: GitHub Readme 
       uses: theboi/github-update-readme@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
