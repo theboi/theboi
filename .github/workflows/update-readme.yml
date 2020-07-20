@@ -11,8 +11,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        # Your GitHub username 
-        username: theboi
         title: byetitle
         subtitle: byebye
 
