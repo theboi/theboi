@@ -17,3 +17,13 @@ jobs:
         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
         repoCount: 6
         reposPerRow: 3
+        customReadmeFile: |
+          iawdji${footer}idji
+          ${header}
+          ${}
+          $hello
+          ${unknown}
+          
+          ---
+          
+          ${subhead}
