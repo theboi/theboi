@@ -15,5 +15,5 @@ jobs:
         header: "Hey, I'm Ryan! 👋"
         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
-        repoCount: "9"
-        reposPerRow: 4
+        repoCount: 6
+        reposPerRow: 3
