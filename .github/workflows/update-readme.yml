@@ -1,17 +1,17 @@
-name: Update GitHub Profile README
-on:
-  push:
-  schedule:
-    - cron: "*/10 * * * *"  
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Update GitHub Profile README
-      uses: theboi/github-update-readme@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        header: "Hey, I'm Ryan! 👋"
-        subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
-        footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
+# name: Update GitHub Profile README
+# on:
+#   push:
+#   schedule:
+#     - cron: "*/10 * * * *"  
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Update GitHub Profile README
+#       uses: theboi/github-update-readme@master
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       with:
+#         header: "Hey, I'm Ryan! 👋"
+#         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
+#         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
