@@ -12,7 +12,7 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 | :-: | :-: | :-: |
 | <a href="https://github.com/theboi/visual-algo"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/visual-algo" title="theboi/visual-algo" width="200" height="200"></a> | <a href="https://github.com/theboi/qr-sstinc-org"><img src="https://github.com/theboi/qr-sstinc-org/raw/master/DISPLAY.jpg" alt="theboi/qr-sstinc-org" title="theboi/qr-sstinc-org" width="200" height="200"></a> | <a href="https://github.com/theboi/test"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/test" title="theboi/test" width="200" height="200"></a> |
 
-
+<img src="test.svg" />
 
 ---
 
