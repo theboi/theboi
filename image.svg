@@ -79,7 +79,7 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
-				<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Autoscale your Heroku web and worker dynos to save money and gracefully handle peak hours.</p>&mdash; HireFire (@hirefireio) <a href="https://twitter.com/hirefireio/status/1276246710558380033?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 			</div>
 		</div>
 	</foreignObject>
