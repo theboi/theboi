@@ -4,13 +4,13 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/Cean-InnoFest](https://github.com/theboi/Cean-InnoFest) | [theboi/go-sstinc-org](https://github.com/theboi/go-sstinc-org) | [theboi/visual-algo](https://github.com/theboi/visual-algo) |
+| [theboi/Barg-InnoFest](https://github.com/theboi/Barg-InnoFest) | [theboi/Cean-InnoFest](https://github.com/theboi/Cean-InnoFest) | [theboi/go-sstinc-org](https://github.com/theboi/go-sstinc-org) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/Cean-InnoFest"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/Cean-InnoFest" title="theboi/Cean-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/go-sstinc-org"><img src="https://github.com/theboi/go-sstinc-org/raw/master/DISPLAY.jpg" alt="theboi/go-sstinc-org" title="theboi/go-sstinc-org" width="200" height="200"></a> | <a href="https://github.com/theboi/visual-algo"><img src="https://github.com/theboi/visual-algo/raw/master/DISPLAY.jpg" alt="theboi/visual-algo" title="theboi/visual-algo" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/Barg-InnoFest"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/Barg-InnoFest" title="theboi/Barg-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/Cean-InnoFest"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/Cean-InnoFest" title="theboi/Cean-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/go-sstinc-org"><img src="https://github.com/theboi/go-sstinc-org/raw/master/DISPLAY.jpg" alt="theboi/go-sstinc-org" title="theboi/go-sstinc-org" width="200" height="200"></a> |
 
-| [theboi/InnoFest](https://github.com/theboi/InnoFest) | [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) | [sst-inc/SST-Announcer-iOS](https://github.com/sst-inc/SST-Announcer-iOS) |
+| [theboi/visual-algo](https://github.com/theboi/visual-algo) | [theboi/InnoFest](https://github.com/theboi/InnoFest) | [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/InnoFest"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/InnoFest" title="theboi/InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/qr-sstinc-org"><img src="https://github.com/theboi/qr-sstinc-org/raw/master/DISPLAY.jpg" alt="theboi/qr-sstinc-org" title="theboi/qr-sstinc-org" width="200" height="200"></a> | <a href="https://github.com/sst-inc/SST-Announcer-iOS"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="sst-inc/SST-Announcer-iOS" title="sst-inc/SST-Announcer-iOS" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/visual-algo"><img src="https://github.com/theboi/visual-algo/raw/master/DISPLAY.jpg" alt="theboi/visual-algo" title="theboi/visual-algo" width="200" height="200"></a> | <a href="https://github.com/theboi/InnoFest"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/InnoFest" title="theboi/InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/qr-sstinc-org"><img src="https://github.com/theboi/qr-sstinc-org/raw/master/DISPLAY.jpg" alt="theboi/qr-sstinc-org" title="theboi/qr-sstinc-org" width="200" height="200"></a> |
 
 
 
