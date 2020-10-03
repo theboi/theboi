@@ -17,4 +17,4 @@ jobs:
         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
         excludeActivity: '["WatchEvent"]'
         excludeRepo: '["theboi/theboi"]'
-        repoCount: 24
+        repoCount: 100
