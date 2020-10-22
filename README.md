@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/lost-app](https://github.com/theboi/lost-app) | [theboi/Barg-InnoFest](https://github.com/theboi/Barg-InnoFest) | [theboi/reddit-code-highlight](https://github.com/theboi/reddit-code-highlight) |
+| [theboi/Barg-InnoFest](https://github.com/theboi/Barg-InnoFest) | [theboi/lost-app](https://github.com/theboi/lost-app) | [theboi/reddit-code-highlight](https://github.com/theboi/reddit-code-highlight) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/lost-app"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/lost-app" title="theboi/lost-app" width="200" height="200"></a> | <a href="https://github.com/theboi/Barg-InnoFest"><img src="https://github.com/theboi/Barg-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/Barg-InnoFest" title="theboi/Barg-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/reddit-code-highlight"><img src="https://github.com/theboi/reddit-code-highlight/raw/master/DISPLAY.jpg" alt="theboi/reddit-code-highlight" title="theboi/reddit-code-highlight" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/Barg-InnoFest"><img src="https://github.com/theboi/Barg-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/Barg-InnoFest" title="theboi/Barg-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/lost-app"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/lost-app" title="theboi/lost-app" width="200" height="200"></a> | <a href="https://github.com/theboi/reddit-code-highlight"><img src="https://github.com/theboi/reddit-code-highlight/raw/master/DISPLAY.jpg" alt="theboi/reddit-code-highlight" title="theboi/reddit-code-highlight" width="200" height="200"></a> |
 
 | [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) | [theboi/github-update-readme](https://github.com/theboi/github-update-readme) | [qin-guan/Strife](https://github.com/qin-guan/Strife) |
 | :-: | :-: | :-: |
