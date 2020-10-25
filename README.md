@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) | [theboi/GoTourLah-InnoFest](https://github.com/theboi/GoTourLah-InnoFest) | [theboi/Barg-InnoFest](https://github.com/theboi/Barg-InnoFest) |
+| [theboi/GoTourLah-InnoFest](https://github.com/theboi/GoTourLah-InnoFest) | [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) | [theboi/Barg-InnoFest](https://github.com/theboi/Barg-InnoFest) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/ryan-personal-website"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/ryan-personal-website" title="theboi/ryan-personal-website" width="200" height="200"></a> | <a href="https://github.com/theboi/GoTourLah-InnoFest"><img src="https://github.com/theboi/GoTourLah-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/GoTourLah-InnoFest" title="theboi/GoTourLah-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/Barg-InnoFest"><img src="https://github.com/theboi/Barg-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/Barg-InnoFest" title="theboi/Barg-InnoFest" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/GoTourLah-InnoFest"><img src="https://github.com/theboi/GoTourLah-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/GoTourLah-InnoFest" title="theboi/GoTourLah-InnoFest" width="200" height="200"></a> | <a href="https://github.com/theboi/ryan-personal-website"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/ryan-personal-website" title="theboi/ryan-personal-website" width="200" height="200"></a> | <a href="https://github.com/theboi/Barg-InnoFest"><img src="https://github.com/theboi/Barg-InnoFest/raw/master/DISPLAY.jpg" alt="theboi/Barg-InnoFest" title="theboi/Barg-InnoFest" width="200" height="200"></a> |
 
 | [theboi/lost-app](https://github.com/theboi/lost-app) | [theboi/reddit-code-highlight](https://github.com/theboi/reddit-code-highlight) | [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) |
 | :-: | :-: | :-: |
