@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/sketch-ignore](https://github.com/theboi/sketch-ignore) | [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) | [theboi/lost-app](https://github.com/theboi/lost-app) |
+| [theboi/lost-app](https://github.com/theboi/lost-app) | [theboi/sketch-ignore](https://github.com/theboi/sketch-ignore) | [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/sketch-ignore"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/sketch-ignore" title="theboi/sketch-ignore" width="200" height="200"></a> | <a href="https://github.com/theboi/ryan-personal-website"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryan-personal-website" title="theboi/ryan-personal-website" width="200" height="200"></a> | <a href="https://github.com/theboi/lost-app"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/lost-app" title="theboi/lost-app" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/lost-app"><img src="https://github.com/theboi/lost-app/raw/main/DISPLAY.jpg" alt="theboi/lost-app" title="theboi/lost-app" width="200" height="200"></a> | <a href="https://github.com/theboi/sketch-ignore"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/sketch-ignore" title="theboi/sketch-ignore" width="200" height="200"></a> | <a href="https://github.com/theboi/ryan-personal-website"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryan-personal-website" title="theboi/ryan-personal-website" width="200" height="200"></a> |
 
 | [theboi/github-update-readme](https://github.com/theboi/github-update-readme) | [swiftaccelerator2020/group6](https://github.com/swiftaccelerator2020/group6) | [theboi/GoTourLah-InnoFest](https://github.com/theboi/GoTourLah-InnoFest) |
 | :-: | :-: | :-: |
