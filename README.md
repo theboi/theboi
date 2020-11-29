@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/Navigem](https://github.com/theboi/Navigem) | [swiftaccelerator2020/Group6-Navigem](https://github.com/swiftaccelerator2020/Group6-Navigem) | [swiftaccelerator2020/Group5-Navigem](https://github.com/swiftaccelerator2020/Group5-Navigem) |
+| [swiftaccelerator2020/Group6-Navigem](https://github.com/swiftaccelerator2020/Group6-Navigem) | [theboi/Navigem](https://github.com/theboi/Navigem) | [swiftaccelerator2020/Group5-Navigem](https://github.com/swiftaccelerator2020/Group5-Navigem) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/Navigem" title="theboi/Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group6-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-Navigem" title="swiftaccelerator2020/Group6-Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group5-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group5-Navigem" title="swiftaccelerator2020/Group5-Navigem" width="200" height="200"></a> |
+| <a href="https://github.com/swiftaccelerator2020/Group6-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-Navigem" title="swiftaccelerator2020/Group6-Navigem" width="200" height="200"></a> | <a href="https://github.com/theboi/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/Navigem" title="theboi/Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group5-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group5-Navigem" title="swiftaccelerator2020/Group5-Navigem" width="200" height="200"></a> |
 
 | [swiftaccelerator2020/Navigem](https://github.com/swiftaccelerator2020/Navigem) | [theboi/git-mirror](https://github.com/theboi/git-mirror) | [theboi/git-test](https://github.com/theboi/git-test) |
 | :-: | :-: | :-: |
