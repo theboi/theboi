@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [swiftaccelerator2020/Group5-Navigem](https://github.com/swiftaccelerator2020/Group5-Navigem) | [theboi/Navigem](https://github.com/theboi/Navigem) | [swiftaccelerator2020/Navigem](https://github.com/swiftaccelerator2020/Navigem) |
+| [theboi/Navigem](https://github.com/theboi/Navigem) | [swiftaccelerator2020/Group5-Navigem](https://github.com/swiftaccelerator2020/Group5-Navigem) | [swiftaccelerator2020/Navigem](https://github.com/swiftaccelerator2020/Navigem) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/swiftaccelerator2020/Group5-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group5-Navigem" title="swiftaccelerator2020/Group5-Navigem" width="200" height="200"></a> | <a href="https://github.com/theboi/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/Navigem" title="theboi/Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Navigem" title="swiftaccelerator2020/Navigem" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/Navigem" title="theboi/Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group5-Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group5-Navigem" title="swiftaccelerator2020/Group5-Navigem" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Navigem"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Navigem" title="swiftaccelerator2020/Navigem" width="200" height="200"></a> |
 
 | [theboi/git-mirror](https://github.com/theboi/git-mirror) | [theboi/git-test](https://github.com/theboi/git-test) | [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) |
 | :-: | :-: | :-: |
