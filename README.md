@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/competitive-programming](https://github.com/theboi/competitive-programming) | [swiftaccelerator2020/Group6-BuSG](https://github.com/swiftaccelerator2020/Group6-BuSG) | [theboi/BuSG](https://github.com/theboi/BuSG) |
+| [swiftaccelerator2020/Group6-BuSG](https://github.com/swiftaccelerator2020/Group6-BuSG) | [theboi/BuSG](https://github.com/theboi/BuSG) | [theboi/competitive-programming](https://github.com/theboi/competitive-programming) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/competitive-programming"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/competitive-programming" title="theboi/competitive-programming" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group6-BuSG"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-BuSG" title="swiftaccelerator2020/Group6-BuSG" width="200" height="200"></a> | <a href="https://github.com/theboi/BuSG"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/BuSG" title="theboi/BuSG" width="200" height="200"></a> |
+| <a href="https://github.com/swiftaccelerator2020/Group6-BuSG"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-BuSG" title="swiftaccelerator2020/Group6-BuSG" width="200" height="200"></a> | <a href="https://github.com/theboi/BuSG"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/BuSG" title="theboi/BuSG" width="200" height="200"></a> | <a href="https://github.com/theboi/competitive-programming"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/competitive-programming" title="theboi/competitive-programming" width="200" height="200"></a> |
 
 | [swiftaccelerator2020/Group6-Navigem](https://github.com/swiftaccelerator2020/Group6-Navigem) | [theboi/Navigem](https://github.com/theboi/Navigem) | [theboi/github-dynamic-readme](https://github.com/theboi/github-dynamic-readme) |
 | :-: | :-: | :-: |
