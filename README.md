@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/sdl-game](https://github.com/theboi/sdl-game) | [theboi/BuSG](https://github.com/theboi/BuSG) | [swiftaccelerator2020/Group6-BuSG](https://github.com/swiftaccelerator2020/Group6-BuSG) |
+| [theboi/BuSG](https://github.com/theboi/BuSG) | [theboi/sdl-game](https://github.com/theboi/sdl-game) | [swiftaccelerator2020/Group6-BuSG](https://github.com/swiftaccelerator2020/Group6-BuSG) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/sdl-game"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/sdl-game" title="theboi/sdl-game" width="200" height="200"></a> | <a href="https://github.com/theboi/BuSG"><img src="https://github.com/theboi/BuSG/raw/main/DISPLAY.jpg" alt="theboi/BuSG" title="theboi/BuSG" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group6-BuSG"><img src="https://github.com/swiftaccelerator2020/Group6-BuSG/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-BuSG" title="swiftaccelerator2020/Group6-BuSG" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/BuSG"><img src="https://github.com/theboi/BuSG/raw/main/DISPLAY.jpg" alt="theboi/BuSG" title="theboi/BuSG" width="200" height="200"></a> | <a href="https://github.com/theboi/sdl-game"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/sdl-game" title="theboi/sdl-game" width="200" height="200"></a> | <a href="https://github.com/swiftaccelerator2020/Group6-BuSG"><img src="https://github.com/swiftaccelerator2020/Group6-BuSG/raw/main/DISPLAY.jpg" alt="swiftaccelerator2020/Group6-BuSG" title="swiftaccelerator2020/Group6-BuSG" width="200" height="200"></a> |
 
 | [theboi/ryanthe.com](https://github.com/theboi/ryanthe.com) | [theboi/ryan-personal-website](https://github.com/theboi/ryan-personal-website) | [theboi/competitive-programming](https://github.com/theboi/competitive-programming) |
 | :-: | :-: | :-: |
