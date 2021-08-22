@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [SST-S301/sst-s301.github.io](https://github.com/SST-S301/sst-s301.github.io) | [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [theboi/SSTackExchange](https://github.com/theboi/SSTackExchange) |
+| [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [SST-S301/sst-s301.github.io](https://github.com/SST-S301/sst-s301.github.io) | [theboi/SSTackExchange](https://github.com/theboi/SSTackExchange) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/SST-S301/sst-s301.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="SST-S301/sst-s301.github.io" title="SST-S301/sst-s301.github.io" width="200" height="200"></a> | <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/theboi/SSTackExchange"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/SSTackExchange" title="theboi/SSTackExchange" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/SST-S301/sst-s301.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="SST-S301/sst-s301.github.io" title="SST-S301/sst-s301.github.io" width="200" height="200"></a> | <a href="https://github.com/theboi/SSTackExchange"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/SSTackExchange" title="theboi/SSTackExchange" width="200" height="200"></a> |
 
 | [roboapex/roboapex-docs](https://github.com/roboapex/roboapex-docs) | [theboi/roboapex-docs](https://github.com/theboi/roboapex-docs) | [roboapex/nrc2021-open-test4](https://github.com/roboapex/nrc2021-open-test4) |
 | :-: | :-: | :-: |
