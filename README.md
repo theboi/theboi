@@ -4,13 +4,13 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [SST-S301/sst-s301.github.io](https://github.com/SST-S301/sst-s301.github.io) | [theboi/SSTackExchange](https://github.com/theboi/SSTackExchange) |
+| [theboi/github-dynamic-readme](https://github.com/theboi/github-dynamic-readme) | [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [SST-S301/sst-s301.github.io](https://github.com/SST-S301/sst-s301.github.io) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/SST-S301/sst-s301.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="SST-S301/sst-s301.github.io" title="SST-S301/sst-s301.github.io" width="200" height="200"></a> | <a href="https://github.com/theboi/SSTackExchange"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/SSTackExchange" title="theboi/SSTackExchange" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/github-dynamic-readme"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/github-dynamic-readme" title="theboi/github-dynamic-readme" width="200" height="200"></a> | <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/SST-S301/sst-s301.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="SST-S301/sst-s301.github.io" title="SST-S301/sst-s301.github.io" width="200" height="200"></a> |
 
-| [roboapex/roboapex-docs](https://github.com/roboapex/roboapex-docs) | [theboi/roboapex-docs](https://github.com/theboi/roboapex-docs) | [roboapex/nrc2021-open-test4](https://github.com/roboapex/nrc2021-open-test4) |
+| [theboi/SSTackExchange](https://github.com/theboi/SSTackExchange) | [roboapex/roboapex-docs](https://github.com/roboapex/roboapex-docs) | [theboi/roboapex-docs](https://github.com/theboi/roboapex-docs) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/roboapex/roboapex-docs"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex-docs" title="roboapex/roboapex-docs" width="200" height="200"></a> | <a href="https://github.com/theboi/roboapex-docs"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/roboapex-docs" title="theboi/roboapex-docs" width="200" height="200"></a> | <a href="https://github.com/roboapex/nrc2021-open-test4"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/nrc2021-open-test4" title="roboapex/nrc2021-open-test4" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/SSTackExchange"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/SSTackExchange" title="theboi/SSTackExchange" width="200" height="200"></a> | <a href="https://github.com/roboapex/roboapex-docs"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex-docs" title="roboapex/roboapex-docs" width="200" height="200"></a> | <a href="https://github.com/theboi/roboapex-docs"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/roboapex-docs" title="theboi/roboapex-docs" width="200" height="200"></a> |
 
 
 
