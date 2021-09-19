@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/competitive-programming](https://github.com/theboi/competitive-programming) | [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [theboi/github-dynamic-readme](https://github.com/theboi/github-dynamic-readme) |
+| [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [theboi/competitive-programming](https://github.com/theboi/competitive-programming) | [theboi/github-dynamic-readme](https://github.com/theboi/github-dynamic-readme) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/competitive-programming"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/competitive-programming" title="theboi/competitive-programming" width="200" height="200"></a> | <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/theboi/github-dynamic-readme"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/github-dynamic-readme" title="theboi/github-dynamic-readme" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/theboi/competitive-programming"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/competitive-programming" title="theboi/competitive-programming" width="200" height="200"></a> | <a href="https://github.com/theboi/github-dynamic-readme"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/github-dynamic-readme" title="theboi/github-dynamic-readme" width="200" height="200"></a> |
 
 | [SST-S301/sst-s301.github.io](https://github.com/SST-S301/sst-s301.github.io) | [theboi/SSTackExchange](https://github.com/theboi/SSTackExchange) | [roboapex/roboapex-docs](https://github.com/roboapex/roboapex-docs) |
 | :-: | :-: | :-: |
