@@ -4,13 +4,13 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
+| [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) | [theboi/visual-algo](https://github.com/theboi/visual-algo) | [theboi/github-dynamic-readme](https://github.com/theboi/github-dynamic-readme) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/theboi/qr-sstinc-org"><img src="https://github.com/theboi/qr-sstinc-org/raw/main/DISPLAY.jpg" alt="theboi/qr-sstinc-org" title="theboi/qr-sstinc-org" width="200" height="200"></a> | <a href="https://github.com/theboi/visual-algo"><img src="https://github.com/theboi/visual-algo/raw/main/DISPLAY.jpg" alt="theboi/visual-algo" title="theboi/visual-algo" width="200" height="200"></a> | <a href="https://github.com/theboi/github-dynamic-readme"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/github-dynamic-readme" title="theboi/github-dynamic-readme" width="200" height="200"></a> |
+
 | [roboapex/roboapex.github.io](https://github.com/roboapex/roboapex.github.io) | [theboi/ryanthe.com-2020](https://github.com/theboi/ryanthe.com-2020) | [theboi/idoor](https://github.com/theboi/idoor) |
 | :-: | :-: | :-: |
 | <a href="https://github.com/roboapex/roboapex.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex.github.io" title="roboapex/roboapex.github.io" width="200" height="200"></a> | <a href="https://github.com/theboi/ryanthe.com-2020"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com-2020" title="theboi/ryanthe.com-2020" width="200" height="200"></a> | <a href="https://github.com/theboi/idoor"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/idoor" title="theboi/idoor" width="200" height="200"></a> |
-
-| [theboi/smp-sstinc-org](https://github.com/theboi/smp-sstinc-org) | [roboapex/nrc2021-fe-hexacore](https://github.com/roboapex/nrc2021-fe-hexacore) | [theboi/competitive-programming](https://github.com/theboi/competitive-programming) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/theboi/smp-sstinc-org"><img src="https://github.com/theboi/smp-sstinc-org/raw/main/DISPLAY.jpg" alt="theboi/smp-sstinc-org" title="theboi/smp-sstinc-org" width="200" height="200"></a> | <a href="https://github.com/roboapex/nrc2021-fe-hexacore"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/nrc2021-fe-hexacore" title="roboapex/nrc2021-fe-hexacore" width="200" height="200"></a> | <a href="https://github.com/theboi/competitive-programming"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/competitive-programming" title="theboi/competitive-programming" width="200" height="200"></a> |
 
 
 
