@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/ryanthe.com](https://github.com/theboi/ryanthe.com) | [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [roboapex/roboapex.github.io](https://github.com/roboapex/roboapex.github.io) |
+| [theboi/GoTourLah](https://github.com/theboi/GoTourLah) | [theboi/ryanthe.com](https://github.com/theboi/ryanthe.com) | [roboapex/roboapex.github.io](https://github.com/roboapex/roboapex.github.io) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/theboi/ryanthe.com"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com" title="theboi/ryanthe.com" width="200" height="200"></a> | <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/roboapex/roboapex.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex.github.io" title="roboapex/roboapex.github.io" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/GoTourLah"><img src="https://github.com/theboi/GoTourLah/raw/main/DISPLAY.jpg" alt="theboi/GoTourLah" title="theboi/GoTourLah" width="200" height="200"></a> | <a href="https://github.com/theboi/ryanthe.com"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com" title="theboi/ryanthe.com" width="200" height="200"></a> | <a href="https://github.com/roboapex/roboapex.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex.github.io" title="roboapex/roboapex.github.io" width="200" height="200"></a> |
 
 | [theboi/YouMadeADifference](https://github.com/theboi/YouMadeADifference) | [theboi/qr-sstinc-org](https://github.com/theboi/qr-sstinc-org) | [theboi/visual-algo](https://github.com/theboi/visual-algo) |
 | :-: | :-: | :-: |
