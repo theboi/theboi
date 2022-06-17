@@ -8,10 +8,6 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 | :-: | :-: | :-: |
 | <a href="https://github.com/theboi/ryanthe.com"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com" title="theboi/ryanthe.com" width="200" height="200"></a> | <a href="https://github.com/education/GitHubGraduation-2022"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="education/GitHubGraduation-2022" title="education/GitHubGraduation-2022" width="200" height="200"></a> | <a href="https://github.com/theboi/GitHubGraduation-2022"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/GitHubGraduation-2022" title="theboi/GitHubGraduation-2022" width="200" height="200"></a> |
 
-| [roboapex/roboapex.github.io](https://github.com/roboapex/roboapex.github.io) |
-| :-: |
-| <a href="https://github.com/roboapex/roboapex.github.io"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="roboapex/roboapex.github.io" title="roboapex/roboapex.github.io" width="200" height="200"></a> |
-
 
 
 ---
