@@ -8,10 +8,6 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 | :-: | :-: | :-: |
 | <a href="https://github.com/tinkercademy/swift-slides"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="tinkercademy/swift-slides" title="tinkercademy/swift-slides" width="200" height="200"></a> | <a href="https://github.com/theboi/github-update-readme"><img src="https://github.com/theboi/github-update-readme/raw/main/DISPLAY.jpg" alt="theboi/github-update-readme" title="theboi/github-update-readme" width="200" height="200"></a> | <a href="https://github.com/tinkercademy/phaser-pong-game"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="tinkercademy/phaser-pong-game" title="tinkercademy/phaser-pong-game" width="200" height="200"></a> |
 
-| [theboi/phaser-intro](https://github.com/theboi/phaser-intro) | [theboi/phaser-test](https://github.com/theboi/phaser-test) |
-| :-: | :-: |
-| <a href="https://github.com/theboi/phaser-intro"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/phaser-intro" title="theboi/phaser-intro" width="200" height="200"></a> | <a href="https://github.com/theboi/phaser-test"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/phaser-test" title="theboi/phaser-test" width="200" height="200"></a> |
-
 
 
 ---
