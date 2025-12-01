@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/alpha-charlie](https://github.com/theboi/alpha-charlie) | [theboi/dogwater](https://github.com/theboi/dogwater) |
-| :-: | :-: |
-| <a href="https://github.com/theboi/alpha-charlie"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/alpha-charlie" title="theboi/alpha-charlie" width="200" height="200"></a> | <a href="https://github.com/theboi/dogwater"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/dogwater" title="theboi/dogwater" width="200" height="200"></a> |
+| [theboi/parrot](https://github.com/theboi/parrot) | [theboi/alpha-charlie](https://github.com/theboi/alpha-charlie) | [theboi/dogwater](https://github.com/theboi/dogwater) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/theboi/parrot"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/parrot" title="theboi/parrot" width="200" height="200"></a> | <a href="https://github.com/theboi/alpha-charlie"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/alpha-charlie" title="theboi/alpha-charlie" width="200" height="200"></a> | <a href="https://github.com/theboi/dogwater"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/dogwater" title="theboi/dogwater" width="200" height="200"></a> |
 
 
 
