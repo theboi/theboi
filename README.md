@@ -4,10 +4,6 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/parrot](https://github.com/theboi/parrot) | [theboi/alpha-charlie](https://github.com/theboi/alpha-charlie) |
-| :-: | :-: |
-| <a href="https://github.com/theboi/parrot"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/parrot" title="theboi/parrot" width="200" height="200"></a> | <a href="https://github.com/theboi/alpha-charlie"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/alpha-charlie" title="theboi/alpha-charlie" width="200" height="200"></a> |
-
 
 
 ---
