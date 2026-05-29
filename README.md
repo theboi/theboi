@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/tirtech-website](https://github.com/theboi/tirtech-website) | [theboi/ryanthe.com](https://github.com/theboi/ryanthe.com) |
-| :-: | :-: |
-| <a href="https://github.com/theboi/tirtech-website"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/tirtech-website" title="theboi/tirtech-website" width="200" height="200"></a> | <a href="https://github.com/theboi/ryanthe.com"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com" title="theboi/ryanthe.com" width="200" height="200"></a> |
+| [theboi/Brain2](https://github.com/theboi/Brain2) | [theboi/tirtech-website](https://github.com/theboi/tirtech-website) | [theboi/ryanthe.com](https://github.com/theboi/ryanthe.com) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/theboi/Brain2"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/Brain2" title="theboi/Brain2" width="200" height="200"></a> | <a href="https://github.com/theboi/tirtech-website"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/tirtech-website" title="theboi/tirtech-website" width="200" height="200"></a> | <a href="https://github.com/theboi/ryanthe.com"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/ryanthe.com" title="theboi/ryanthe.com" width="200" height="200"></a> |
 
 
 
