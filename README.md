@@ -4,9 +4,9 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-| [theboi/neetcode-submissions-idffv2qn](https://github.com/theboi/neetcode-submissions-idffv2qn) |
+| [theboi/neetcode-submissions](https://github.com/theboi/neetcode-submissions) |
 | :-: |
-| <a href="https://github.com/theboi/neetcode-submissions-idffv2qn"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/neetcode-submissions-idffv2qn" title="theboi/neetcode-submissions-idffv2qn" width="200" height="200"></a> |
+| <a href="https://github.com/theboi/neetcode-submissions"><img src="https://github.com/theboi/theboi/raw/main/DISPLAY.jpg" alt="theboi/neetcode-submissions" title="theboi/neetcode-submissions" width="200" height="200"></a> |
 
 
 
